@@ -18,7 +18,7 @@ Homepage:      http://github.com/sebfisch/stream-monad
 Build-Type:    Simple
 Stability:     experimental
 
-Extra-Source-Files: README
+Extra-Source-Files: README.md
 
 Library
   Build-Depends:    base >= 3 && < 5
